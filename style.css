@@ -1,0 +1,169 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0px;
+    margin: 0px;
+    background-color: darkslategrey;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#container{
+width: 40%;  
+height: 100px; 
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+#titulo{
+font-size: smaller;
+color: white;
+
+}
+
+#imagen{
+width: 100px;
+height: 100px;
+}
+
+#contenedor2{
+width: 60%;  
+height: 100px;    
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+}
+
+
+main{
+width: 100%;
+height: 500px;
+background-color: blue;
+justify-content: end;
+align-items: end;
+
+
+}
+
+#texto1{
+width: 600px;   
+height: 200px; 
+text-align: right;
+position: relative;
+margin-top: -300px;
+margin-left: 600px;
+color: white;
+padding-right: 20px;
+}
+
+.grilla1{
+width: 600px;   
+height: 50px; 
+position: relative;
+margin-left: 600px;
+padding-right: 60px;
+
+
+}
+
+
+
+#orador{
+    width: 500px;
+    height: 90px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: xx-small;
+    padding-top: 20px;
+
+}
+
+
+
+#section2{
+width: 100%;
+height: 300px;
+background-color: chocolate;
+display: flex;
+}
+
+
+
+
+
+#paisaje{
+width: 50%;    
+height: 300px;
+background-color: darkseagreen;
+
+}
+
+#octubre{
+width: 50%;
+height: 300px;
+color: white;
+padding-left: 20px;
+background-color: darkslategrey;
+
+
+}
+
+#orador1{
+    width: 500px;
+    height: 150px;
+    padding-top: 20px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: x-small;
+
+}
+
+footer{
+    width: 100%;
+    height: 60px;
+   background-color: darkblue;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+
+
+#section3{
+width: 100%;
+height: 400px;
+background-color: white;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:active{
+    color: green;
+}
+
+
+
+
+
